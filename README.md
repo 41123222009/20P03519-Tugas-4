@@ -73,7 +73,7 @@ Fitur yang dikenakan Standard Scaling:
 2. `Income` (Pendapatan)
 3. `Credit_Score` (Skor Kredit) 
 4. `Loan_Amount` (Jumlah Pinjaman)
-5. 
+
 Metode StandardScaler bekerja dengan mengubah setiap fitur agar memiliki rata-rata (mean) 0 dan standar deviasi 1, sehingga distribusi data menjadi lebih seimbang.
 
 ### Bagi dataset menjadi training set (80%) dan testing set (20%).
